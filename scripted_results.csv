@@ -1,4 +1,0 @@
-condition,trust_rounds,switches_succeeded,switches_blocked,you_payoff,partner_payoff,total_welfare
-No proof,3,3,0,14,14,28
-SHA-256 commitment,6,0,3,18,18,36
-Invalid nonce test,NA,0,1,NA,NA,verification=false
